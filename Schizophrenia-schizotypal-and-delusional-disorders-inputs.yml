@@ -1,0 +1,114 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders-schizophreniform---primary.py
+inputModule3:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders-psychosis---primary.py
+inputModule4:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders-resolved---primary.py
+inputModule5:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders-insight---primary.py
+inputModule6:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders-psychoses---primary.py
+inputModule7:
+  class: File
+  path: python/residual-schizophrenia-schizotypal-and-delusional-disorders---primary.py
+inputModule8:
+  class: File
+  path: python/cyclic-schizophrenia-schizotypal-and-delusional-disorders---primary.py
+inputModule9:
+  class: File
+  path: python/atypical-schizophrenia-schizotypal-and-delusional-disorders---primary.py
+inputModule10:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders-paranoia---primary.py
+inputModule11:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders-sander's---primary.py
+inputModule12:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders-paraphrenia---primary.py
+inputModule13:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders-querulan---primary.py
+inputModule14:
+  class: File
+  path: python/nonorganic-schizophrenia-schizotypal-and-delusional-disorders---primary.py
+inputModule15:
+  class: File
+  path: python/catatonic-schizophrenia-schizotypal-and-delusional-disorders---primary.py
+inputModule16:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders-undifferentiated---primary.py
+inputModule17:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders---primary.py
+inputModule18:
+  class: File
+  path: python/schizotypal---primary.py
+inputModule19:
+  class: File
+  path: python/persistent-schizophrenia-schizotypal-and-delusional-disorders---primary.py
+inputModule20:
+  class: File
+  path: python/delusional---primary.py
+inputModule21:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders-capgras---primary.py
+inputModule22:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders-cotard---primary.py
+inputModule23:
+  class: File
+  path: python/schizoaffective-schizophrenia-schizotypal-and-delusional-disorders---primary.py
+inputModule24:
+  class: File
+  path: python/manic-schizophrenia-schizotypal-and-delusional-disorders---primary.py
+inputModule25:
+  class: File
+  path: python/depressive-schizophrenia-schizotypal-and-delusional-disorders---primary.py
+inputModule26:
+  class: File
+  path: python/mixed-schizophrenia-schizotypal-and-delusional-disorders---primary.py
+inputModule27:
+  class: File
+  path: python/other-schizophrenia-schizotypal-and-delusional-disorders---primary.py
+inputModule28:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders-unspecified---primary.py
+inputModule29:
+  class: File
+  path: python/psychotic-schizophrenia-schizotypal-and-delusional-disorders---primary.py
+inputModule30:
+  class: File
+  path: python/subchronic-schizophrenia-schizotypal-and-delusional-disorders---primary.py
+inputModule31:
+  class: File
+  path: python/schizophrenia---primary.py
+inputModule32:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders-history---primary.py
+inputModule33:
+  class: File
+  path: python/schizophrenia---secondary.py
+inputModule34:
+  class: File
+  path: python/schizotypal---secondary.py
+inputModule35:
+  class: File
+  path: python/schizophrenia-schizotypal-and-delusional-disorders---secondary.py
+inputModule36:
+  class: File
+  path: python/schizoaffective-schizophrenia-schizotypal-and-delusional-disorders---secondary.py
+inputModule37:
+  class: File
+  path: python/nonorganic-schizophrenia-schizotypal-and-delusional-disorders---secondary.py
+inputModule38:
+  class: File
+  path: python/output-cases.py
